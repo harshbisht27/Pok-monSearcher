@@ -1,8 +1,25 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Pokémon Searcher
 
-Currently, two official plugins are available:
+Pokémon Searcher is a React-based application that enables users to search for and view detailed information about various Pokémon. The app fetches data from the PokeAPI and presents it in a responsive and visually appealing interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Features
+
+Allows users to search for Pokémon by name.
+
+Displays detailed information about each Pokémon, including their types, abilities, height, weight, and stats.
+
+Ensures a seamless experience across different devices.
+## Technology Used
+
+
+**React**: A JavaScript library for building user interfaces.
+
+**PokeAPI**: The RESTful API for fetching Pokémon data.
+
+**CSS**: For styling the application.
+
+## Link
+
+https://harshbisht27-pokemonsearcher.netlify.app/
